@@ -8,15 +8,16 @@ header{
 	
 	display : flex;
 	width: 640px;
-	height : 120px;
+	height : 100px;
 	background-color : #011e29;
 	color : white;
 	justify-content : center;
-	align-items : center;
+	text-align: center; 
 	
 }
 
 .latest-news-section{
+	width : 300px;
 	h2{
 		text-align : center;
 	}
@@ -28,7 +29,7 @@ header{
 }
 
 .main-article{
-	
+	width : 300px;
 	text-align : center;
 	margin : 10px;
 	padding : 10px;
